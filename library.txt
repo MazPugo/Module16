@@ -1,0 +1,19 @@
+appy.py
+
+import pandas as pd
+import datetime as dt
+import os
+import dash
+import dash_core_components as dcc
+import dash_html_components as html
+from dash.dependencies import Input, Output
+import dash_auth
+import plotly.graph_objects as go
+import tab1
+import tab2
+
+tab1.py, tab2.py, tab3.py
+
+import dash_core_components as dcc
+import dash_html_components as html
+import plotly.graph_objects as go
